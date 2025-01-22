@@ -66,8 +66,4 @@ A seamless experience across devices with a user-friendly interface.
 - AI-driven functionalities for enhanced user experiences.  
 
 ---
-
-## 🛠️ Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+ 
