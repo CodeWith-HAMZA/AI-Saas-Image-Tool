@@ -1,55 +1,62 @@
-# 🎙️ Podcast App  
+# 🖼️ AI-Powered Image Transformation App  
 
 ## 🚀 Tech Stack
 - **Framework**: Next.js  
 - **Language**: TypeScript  
-- **Database**: Convex  
+- **Database**: MongoDB  
 - **Authentication**: Clerk  
-- **AI Integration**: LLM model  
-- **UI Components**: ShadCN  
-- **Styling**: Tailwind CSS  
+- **Storage**: Cloudinary  
+- **Payments**: Stripe  
+- **UI Components**: Shadcn  
+- **Styling**: TailwindCSS  
 
 ---
 
 ## ✨ Features
-### 🔒 **Robust Authentication**
-Secure and reliable user login and registration system using Clerk.
+### 🔒 **Authentication and Authorization**
+Secure user access with registration, login, and route protection.
 
-### 🏠 **Modern Home Page**
-Showcases trending podcasts with a sticky podcast player for continuous listening.
+### 🌟 **Community Image Showcase**
+Explore user transformations with easy navigation using pagination.
 
-### 🌍 **Discover Podcasts Page**
-Dedicated page for users to explore new and popular podcasts.
+### 🔍 **Advanced Image Search**
+Find images by content or objects present inside the image quickly and accurately.
 
-### 🔍 **Fully Functional Search**
-Allows users to find podcasts easily using various search criteria.
+### 🖌️ **Image Restoration**
+Revive old or damaged images effortlessly.
 
-### 🎙️ **Create Podcast Page**
-Enables podcast creation with:
-- Text-to-audio conversion.
-- AI image generation.
-- Podcast previews.
+### 🎨 **Image Recoloring**
+Customize images by replacing objects with desired colors easily.
 
-### 🗣️ **Multi Voice AI Functionality**
-Supports multiple AI-generated voices for dynamic podcast creation.
+### ✨ **Image Generative Fill**
+Fill in missing areas of images seamlessly.
+
+### ❌ **Object Removal**
+Clean up images by removing unwanted objects with precision.
+
+### 🖼️ **Background Removal**
+Extract objects from backgrounds with ease.
+
+### ⬇️ **Download Transformed Images**
+Save and share AI-transformed images conveniently.
+
+### 📄 **Transformed Image Details**
+View details of transformations for each image.
+
+### 🔧 **Transformation Management**
+Control over deletion and updates of transformations.
+
+### 💳 **Credits System**
+Earn or purchase credits for image transformations.
 
 ### 👤 **Profile Page**
-View all created podcasts with options to delete them.
+Access transformed images and credit information personally.
 
-### 📄 **Podcast Details Page**
-Displays detailed information about each podcast, including:
-- Creator details.
-- Number of listeners.
-- Transcript.
+### 🛒 **Credits Purchase**
+Securely buy credits via Stripe for uninterrupted use.
 
-### 🎧 **Podcast Player**
-Advanced player features include:
-- Backward/forward controls.
-- Mute/unmute functionality.
-- Seamless listening experience.
-
-### 📱 **Responsive Design**
-Fully functional and visually appealing across all devices and screen sizes.
+### 📱 **Responsive UI/UX**
+A seamless experience across devices with a user-friendly interface.
 
 ---
 
